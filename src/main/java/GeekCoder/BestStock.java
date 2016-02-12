@@ -1,3 +1,5 @@
+package GeekCoder;
+
 public class BestStock {
 
     public static void getMostProfit(double[] stockPrice){

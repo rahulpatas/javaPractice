@@ -1,3 +1,4 @@
+package GeekCoder;
 
 public class HighestProduct {
 

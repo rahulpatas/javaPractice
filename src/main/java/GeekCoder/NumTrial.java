@@ -1,3 +1,5 @@
+package GeekCoder;
+
 public class NumTrial {
 
     public static int numTrial(int numEggs, int numFloors){

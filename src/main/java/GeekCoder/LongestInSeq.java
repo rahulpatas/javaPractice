@@ -1,3 +1,5 @@
+package GeekCoder;
+
 public class LongestInSeq {
 
     public static int lis(int[] arr){

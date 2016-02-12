@@ -1,3 +1,5 @@
+package GeekCoder;
+
 import java.util.Arrays;
 
 public class MergeSort {

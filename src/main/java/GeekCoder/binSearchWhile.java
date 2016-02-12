@@ -1,16 +1,23 @@
-public class binSearch {
+package GeekCoder;
 
-    public static int binSearch(int a[], int l, int r, int value){
+public class binSearchWhile {
 
-        if (r >= l){
+    public static int binSearch(int a[], int value){
+
+        int l = 0;
+        int r = a.length -1;
+
+
+        while (r >= l ){
+
             int mid = l + (r - l) / 2;
 
             if(a[mid] == value){
                 return mid;
             }else if(a[mid] > value){
-                return binSearch(a, l, mid - 1, value);
+                r = mid -1;
             }else {
-                return binSearch(a, mid + 1, r, value);
+                l = mid + 1;
             }
         }
 
@@ -20,6 +27,6 @@ public class binSearch {
     public static void main(String[] args){
         int a[] = {2, 3, 4, 8, 9, 10};
         int x = 10;
-        System.out.print(binSearch(a, 0, a.length, x));
+        System.out.println(binSearch(a, x));
     }
 }

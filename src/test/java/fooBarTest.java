@@ -1,3 +1,4 @@
+import GeekCoder.FooBar;
 import junit.framework.TestCase;
 
 public class fooBarTest extends TestCase {

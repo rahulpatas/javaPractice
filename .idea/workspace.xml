@@ -2,525 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ec135e1-8a86-4360-b965-43f162b9251c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/ScalaByExample.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/ScalaTutorial.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/11/10030664597f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/13/203a22e5707e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/13/30eae1995f7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/13/f02ca825a27d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/14/20959b37a07d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/16/a0016bd0af7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/17/30b807a7727e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/17/d075638ba37d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/17/e0cf64e75c7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/19/c0b7456d707e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/1c/e0f27be5707e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/1d/a058902b6e7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/24/901d7fd49f7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/25/7048b5b85a7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/28/c04cceaf6f7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/28/f0ba1f65ad7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/2b/6058c4b6ae7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/2b/80ad4c295b7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/2b/906067055b7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/2b/c03cc58c747e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/2e/4025cb3b757e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/2e/60b0a311c8810014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/2f/30d418b7627e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/2f/80f2f821a07d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/30/40e19363a17d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/32/e077231aa77d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/34/20a8eae45c7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/34/80687ea7a67d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/34/f043a449a77d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/36/80b769b0717e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/38/70e4de14767e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/38/8025c9e0dc8300141b52ad1e9e7f6a8d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/39/308820f2ad7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/39/5095efe0627e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/39/b0ca1d625f7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/3b/a07411c45a7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/3c/00d09be0627e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/3c/30babbfda27d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/3c/e07502e55c7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/3e/60ef119d5a7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/3e/a0a4d540a07d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/4/30b5640e5b7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/4/50eb73b6577f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/42/200273b7627e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/42/9004359aa17d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/45/80aa2c39a27d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/46/c0473041a07d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/4b/3087feaaa97d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/4f/300a8de66f7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/4f/50cd2f4e597f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/5/80c77486577f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/5/c0f3d3c8af7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/51/e087b6b76f7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/52/a060c914767e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/55/d00b2105767e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/58/003b734c6e7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/58/30f96cbcad7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/59/106ee29c617e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/59/c0eb68d86c7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/5b/a05909d0af7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/5e/00c7f982c7810014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/6/703dc1e8ad7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/60/e0275db4687e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/61/208a19cfa97d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/65/907533625f7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/65/90a75ea8707e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/65/b02c777fa57d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/67/00002898717e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/67/f0ab5a165b7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/68/0010ba8a5f7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/69/10c584135a7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/6a/40502607dd8300141b52ad1e9e7f6a8d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/6d/d07a60fda27d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/6e/30efb1e0c7810014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/6f/20490193617e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/70/b00b46ea8c7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/71/00a8b7d86c7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/73/20aa0b1aa77d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/79/006ef7995f7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/7a/80fb1eb7ae7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/7c/20921cd9ad7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/7c/d0411d205a7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/7d/f034e3d2ac7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/7f/c003a9b2ae7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/7f/d0df61a7a67d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/8/00a086f28c7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/8/40c893d85c7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/81/10f97cd2ac7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/81/70ef6eaea17d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/86/b05abeb4687e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/86/e0be35956d7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/87/d09a59b76f7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/8a/308f8d39a27d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/8c/4042ccee5c7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/8e/0017a992617e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/8f/d06f2ec9af7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9/e08e8974a77d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/91/a0e85a22a07d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/94/90387ef2ad7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/94/90690c1f537e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/94/c066b8055b7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/95/00c27ad85c7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/95/7056909c617e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/96/201480cfa97d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/99/d0b81f8d747e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9a/10af0b05767e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9b/d0751e3aa87d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9c/002c2f63a17d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9c/c080b81b5d7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9c/d0c7c54c6e7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9d/3013ba1f5a7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9e/c0c1b88ba37d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9f/8026382b6e7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9f/d04b2fa66d7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a1/a01b4b956d7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a5/501c8ff45f7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a5/901f2b7baf7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a9/60e58465ad7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/ab/7067fc25a27d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/ae/7071b30e5b7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/ae/8053887c8c7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b0/a0d3a4f3707e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b0/e0e660b85a7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b0/f0f61000767e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b1/f084691e767e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b4/30d13e946c7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b7/80b91be9ad7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b9/8026aea6727e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b9/e0970c1e767e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/bb/f07d87a66d7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/bd/e0752574a77d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/bf/106a5fc78c7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/c/d022cd8a5f7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/c1/007ebfd8ad7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/c1/20e2711f537e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/c4/001e43688c7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/c6/d0101dfe627e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/c8/a09901f4707e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/cb/f0212a135a7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/cf/c03567c45a7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d/90f1f2aa717e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d0/00b5b1b5607e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d0/30501558767e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d2/a0829e06dd8300141b52ad1e9e7f6a8d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d3/b0a0b949a77d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d3/d023dbaa717e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d3/f0c518aba97d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d4/10d9c2dfdc8300141b52ad1e9e7f6a8d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d5/a07d8a7baf7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d5/d0cc5bb5607e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d5/e08b29f28c7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d6/90dff5ddad7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d9/302770af6f7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/da/b08dc2aea17d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/dc/a022f737a07d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/de/f0b7d699a17d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/df/b08250dead7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/e2/d0c3e5f1b8810014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/e2/d0ebb739a87d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/e3/0072ada6a87d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/e5/c0699b295b7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/e7/8001ca97717e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/e7/c0160c165b7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/e8/30e5ee6c707e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/e9/00db5b06a07d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/eb/8039121c5d7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/ee/70c6dbe66f7e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f/b0fdfc3dc8810014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f0/80eec39b8c7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f0/c07a2600767e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f1/b01107a8707e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f3/10c6e1ee5c7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f3/a0ef4bb2ae7d0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f4/a099c9fd627e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/fa/b02ebdb0717e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/fd/00821e7bb8810014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/fd/7052089d5a7f0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/fe/209c6a58767e0014158cc52de0bc106c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hello/.indexes/af/history.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hello/.indexes/e4/56/history.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hello/.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hello/.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/ProgFun/.indexes/7/9e/history.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/ProgFun/.indexes/7/bf/history.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/ProgFun/.indexes/7/c0/history.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/ProgFun/.indexes/7/eb/history.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/ProgFun/.indexes/af/history.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/ProgFun/.indexes/e4/9e/history.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/ProgFun/.indexes/e4/bf/history.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/ProgFun/.indexes/e4/c0/history.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/ProgFun/.indexes/e4/eb/history.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/ProgFun/.indexes/properties.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/ProgFun/.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/ProgFun/.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/ProgFun/org.eclipse.egit.core/GitProjectData.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.snap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.api.tools.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.scala-ide.sdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Hello$.launch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/1028199574.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/1065832147.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/156741605.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/1574318262.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/1604200090.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/1832949699.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/1877021558.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/1947431546.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/2193799835.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/2338776811.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/2486087126.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/2513647389.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/2623406447.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/2743915309.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/3095963708.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/3454125809.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/3598813974.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/3991718231.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/4004133052.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/4219279280.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/675288343.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/828133061.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/834584462.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/861037349.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/.plugins/org.scala-ide.sdt.core/scala-ide.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/.metadata/version.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/Hello/.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/Hello/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/Hello/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/Hello/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/Hello/.worksheet/bin/Greeter/WorkSheet$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/Hello/.worksheet/bin/Greeter/WorkSheet$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/Hello/.worksheet/bin/Greeter/WorkSheet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/Hello/.worksheet/src/Greeter.WorkSheet.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/Hello/bin/Greeter/Hello$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/Hello/bin/Greeter/Hello$delayedInit$body.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/Hello/bin/Greeter/Hello.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/Hello/bin/Greeter/WorkSheet.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/Hello/src/Greeter/Hello.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/Hello/src/Greeter/WorkSheet.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/.worksheet.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week01/Session$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week01/Session$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week01/Session.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/FixedPoint$$anonfun$main$1$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/FixedPoint$$anonfun$main$1$$anonfun$sqrt$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/FixedPoint$$anonfun$main$1$$anonfun$sqrt$1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/FixedPoint$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/FixedPoint$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/FixedPoint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/Sum$$anonfun$main$1$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/Sum$$anonfun$main$1$$anonfun$product$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/Sum$$anonfun$main$1$$anonfun$sum$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/Sum$$anonfun$main$1$$anonfun$sumCubes$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/Sum$$anonfun$main$1$$anonfun$sumInts$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/Sum$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/Sum$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/Sum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/SumProduct$$anonfun$main$1$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/SumProduct$$anonfun$main$1$$anonfun$product$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/SumProduct$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/SumProduct$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/SumProduct.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/exp1$$anonfun$main$1$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/exp1$$anonfun$main$1$$anonfun$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/exp1$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/exp1$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/Week2/exp1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/week3/RationWithSymboles$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/week3/RationWithSymboles$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/week3/RationWithSymboles.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/week3/Rational$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/week3/Rational.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/week3/Rational1$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/week3/Rational1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/week3/Rationals$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/week3/Rationals$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/week3/Rationals.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/week4/Expression$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/week4/Expression$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/week4/Expression.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/week4/LinkedList$$anonfun$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/week4/LinkedList$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/bin/week4/LinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/src/Week01.Session.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/src/Week2.FixedPoint.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/src/Week2.Sum.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/src/Week2.SumProduct.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/src/Week2.exp1.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/src/week3.RationWithSymboles.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/src/week3.Rationals.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/src/week4.Expression.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/.worksheet/src/week4.LinkedList.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/ProgFun.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/src/Week01/Session.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/src/Week2/FixedPoint.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/src/Week2/Sum.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/src/Week2/SumProduct.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/src/Week2/exp1.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/src/week3/RationWithSymboles.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/src/week3/Rationals.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/src/week4/ExprDe.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/src/week4/Expression.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/src/week4/LinkedList.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/src/week4/expr.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/ProgFun/src/week4/list.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/javaPractice.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/BST/BST.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/BST/Node.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/BestStock.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/Cards/Card.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/Cards/Deck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/Cards/Hand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/FooBar.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/HighestProduct.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/Add2Num.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/AlienDisctionary.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/BulbSwitch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/CondensedInputCount.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/CourseSchedule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/CourseScheduleII.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/DeleteDupList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/FindLadders.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/FindMinHeightTrees.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/FindSubString.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/HouseRobber.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/LengthOfLongestSubstring.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/LengthOfLongestSubstringTwoDistinct.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/LongestPalindrome.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/MaxProduct.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/MaxProfit.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/MaxProfit3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/MaxProfit4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/MaxProfitCooldown.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/MaxSlidingWindow.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/MaxSumSubArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/MeadianFinder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/MergeIntervals.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/MinSubArrayLen.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/MinWindowSubString.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/NimGame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/NthUglyNumber.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/PalindromeString.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/PhoneBill.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/ProductExceptIndex.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/ReverseInt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/ShortestPalindrome.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/StrStr.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LeetCode/equIndex.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LinkedListImpl/LinkedList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LinkedListImpl/Node.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/LongestInSeq.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/MergeSort.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/MergingList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/MyCards/MyCard.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/MyCards/MyDeck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/MyCards/MyHand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/NearByWords.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/NumTrial.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/NumTrialDy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/OpenDoor/DWELLING.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/OpenDoor/Dwelling.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/OpenDoor/Home.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/OpenDoor/OpenDoor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/OpenDoor/Pool.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/RansomNote.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/SQL/GroupBy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/SQL/Joins.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/SortedWordMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/SplitArraySum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/Stack/NextGraterElementStash.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/Stack/SortStack.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/Stack/balancedPara.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/balancedParaDeque.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/binSearch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/binSearchWhile.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/main/java/bubble.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/src/test/java/fooBarTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/BST/BST.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/BST/Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/BestStock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/Cards/Card.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/Cards/Deck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/Cards/Hand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/FooBar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/HighestProduct.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/Add2Num.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/AlienDisctionary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/BulbSwitch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/CondensedInputCount.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/CourseSchedule.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/CourseScheduleII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/DeleteDupList$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/DeleteDupList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/FindLadders.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/FindMinHeightTrees.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/FindSubString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/HouseRobber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/LengthOfLongestSubstring.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/LengthOfLongestSubstringTwoDistinct.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/LongestPalindrome.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/MaxProduct.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/MaxProfit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/MaxProfit3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/MaxProfit4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/MaxProfitCooldown.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/MaxSlidingWindow.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/MaxSumSubArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/MeadianFinder$MedianFinder$Descend.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/MeadianFinder$MedianFinder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/MeadianFinder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/MergeIntervals$Interval.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/MergeIntervals.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/MinSubArrayLen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/MinWindowSubString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/NimGame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/NthUglyNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/PalindromeString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/PhoneBill.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/ProductExceptIndex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/ReverseInt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/ShortestPalindrome.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/StrStr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LeetCode/equIndex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LinkedListImpl/LinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LinkedListImpl/Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/LongestInSeq.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/MergeSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/MergingList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/MyCards/MyCard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/MyCards/MyDeck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/MyCards/MyHand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/NearByWords.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/NumTrial.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/NumTrialDy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/OpenDoor/Dwelling.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/OpenDoor/Home.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/OpenDoor/OpenDoor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/OpenDoor/Pool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/RansomNote.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/SQL/GroupBy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/SQL/Joins.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/SortedWordMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/SplitArraySum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/Stack/NextGraterElementStash.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/Stack/SortStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/Stack/balancedPara.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/balancedParaDeque.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/binSearch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/binSearchWhile.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/classes/bubble.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/jp-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/surefire-reports/TEST-fooBarTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/surefire-reports/fooBarTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/eclipse/workspace/javaPractice/target/test-classes/fooBarTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/linuxwords.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/scala-for-the-impatient.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Scala/scala_tutorial.pdf" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/BestStock.java" afterPath="$PROJECT_DIR$/src/main/java/GeekCoder/BestStock.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/FooBar.java" afterPath="$PROJECT_DIR$/src/main/java/GeekCoder/FooBar.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/HighestProduct.java" afterPath="$PROJECT_DIR$/src/main/java/GeekCoder/HighestProduct.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/LongestInSeq.java" afterPath="$PROJECT_DIR$/src/main/java/GeekCoder/LongestInSeq.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/MergeSort.java" afterPath="$PROJECT_DIR$/src/main/java/GeekCoder/MergeSort.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/MergingList.java" afterPath="$PROJECT_DIR$/src/main/java/GeekCoder/MergingList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/NearByWords.java" afterPath="$PROJECT_DIR$/src/main/java/GeekCoder/NearByWords.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/NumTrial.java" afterPath="$PROJECT_DIR$/src/main/java/GeekCoder/NumTrial.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/NumTrialDy.java" afterPath="$PROJECT_DIR$/src/main/java/GeekCoder/NumTrialDy.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/RansomNote.java" afterPath="$PROJECT_DIR$/src/main/java/GeekCoder/RansomNote.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/SortedWordMap.java" afterPath="$PROJECT_DIR$/src/main/java/GeekCoder/SortedWordMap.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/SplitArraySum.java" afterPath="$PROJECT_DIR$/src/main/java/GeekCoder/SplitArraySum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/balancedParaDeque.java" afterPath="$PROJECT_DIR$/src/main/java/GeekCoder/balancedParaDeque.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/binSearch.java" afterPath="$PROJECT_DIR$/src/main/java/GeekCoder/binSearch.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/binSearchWhile.java" afterPath="$PROJECT_DIR$/src/main/java/GeekCoder/binSearchWhile.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/bubble.java" afterPath="$PROJECT_DIR$/src/main/java/GeekCoder/bubble.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/fooBarTest.java" afterPath="$PROJECT_DIR$/src/test/java/fooBarTest.java" />
     </list>
     <ignored path="jp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -604,6 +102,86 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GeekCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -630,6 +208,65 @@
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <module />
       <option name="HTML_USED" value="false" />
@@ -653,6 +290,22 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -674,12 +327,109 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jp" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -708,6 +458,49 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
       <method />
     </configuration>
   </component>

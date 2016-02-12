@@ -1,3 +1,5 @@
+package GeekCoder;
+
 public class SplitArraySum {
 
     public static boolean Split(int[] a) {

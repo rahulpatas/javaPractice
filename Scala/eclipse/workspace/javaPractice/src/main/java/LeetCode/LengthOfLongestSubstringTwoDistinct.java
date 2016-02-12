@@ -1,6 +1,9 @@
 package LeetCode;
 
-import java.util.*;
+import java.util.Deque;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
 
 public class LengthOfLongestSubstringTwoDistinct {
 
@@ -10,23 +13,31 @@ public class LengthOfLongestSubstringTwoDistinct {
             return 0;
         }
 
-        int maxLen = 0;
-        Queue<Character> uniqueChar = new LinkedList<>();
+        int maxLen = 0, count = 0;
+        Deque<Character> uniqueChar = new LinkedList<>();
 
-        for (int i = 0; i < s.length(); i++) {
 
-            char c = s.charAt(i);
+        for (int high = 0; high < s.length(); high++) {
 
-            if(!uniqueChar.contains(c)){
+            char c = s.charAt(high);
+
+            if(uniqueChar.contains(c)) {
                 uniqueChar.add(c);
             }else {
-                maxLen = maxLen < uniqueChar.size() ? uniqueChar.size() : maxLen;
-                while (uniqueChar.peek() != c){
-                    uniqueChar.poll();
-                }
+                if (count < 2) {
+                    uniqueChar.add(c);
+                    count++;
+                } else {
+                    maxLen = maxLen < uniqueChar.size() ? uniqueChar.size() : maxLen;
 
-                uniqueChar.poll();
-                uniqueChar.add(c);
+                    char first = uniqueChar.peekFirst();
+                    Deque<Character> temp = new LinkedList<>();
+                    while (uniqueChar.peekLast() == first) {
+                        temp.add(uniqueChar.pollLast());
+                    }
+
+                    uniqueChar.add(c);
+                }
             }
         }
 
@@ -34,6 +45,6 @@ public class LengthOfLongestSubstringTwoDistinct {
     }
 
     public static void main(String[] args){
-        System.out.println(lengthOfLongestSubstring("bpfbhmipx"));
+        System.out.println(lengthOfLongestSubstring("abcbbbbcccbdddadacb"));
     }
 }

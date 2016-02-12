@@ -5,48 +5,134 @@ import java.util.stream.Collectors;
 
 public class FindMinHeightTrees {
 
-    public List<Integer> findMinHeightTrees(int n, int[][] edges) {
+    public static List<Integer> findMinHeightTrees(int n, int[][] edges) {
+
+        List<Integer> res = new ArrayList<>();
 
         if (n==1) {
-            List<Integer> res = new ArrayList<Integer>();
+            res.add(0);
+            return res;
+        }
+
+        Map<Integer, Set<Integer>> edgeMap = new HashMap<>();
+        int[] count = new int[n];
+
+        for (int[] edge : edges) {
+
+            int key = edge[0];
+            int val = edge[1];
+
+            count[key]++;
+            count[val]++;
+
+            Set<Integer> s1 = edgeMap.getOrDefault(key, new HashSet<>());
+            s1.add(val);
+            edgeMap.put(key, s1);
+
+            Set<Integer> s = edgeMap.getOrDefault(val, new HashSet<>());
+            s.add(key);
+            edgeMap.put(val, s);
+        }
+
+        Queue<Integer> keySet = new ArrayDeque<>();
+
+        for (int i = 0; i < n; i++) {
+
+            if(count[i] == 1){
+                keySet.add(i);
+            }
+        }
+
+        while (!keySet.isEmpty()){
+
+            res = new ArrayList<>();
+
+            int num = keySet.size();
+
+            for (int i = 0; i < num; i++) {
+                int key = keySet.poll();
+                count[key]--;
+                res.add(key);
+
+                for (int val : edgeMap.get(key)) {
+
+                    if(count[val] == 0){
+                        continue;
+                    }
+                    if (count[val] == 2) {
+                        keySet.offer(val);
+
+                    }
+                    count[val]--;
+                }
+            }
+        }
+
+        return res;
+    }
+
+    public static List<Integer> findMinHeightTrees1(int n, int[][] edges) {
+
+
+        if (n==1) {
+            List<Integer> res = new ArrayList<>();
             res.add(0);
             return res;
         }
         Map<Integer, Set<Integer>> edgeMap = new HashMap<>();
+        int[] count = new int[n];
 
-        for (int i = 0; i < edges.length; i++) {
+        for (int[] edge : edges) {
 
-            int key = edges[i][0];
-            int val = edges[i][1];
+            int key = edge[0];
+            int val = edge[1];
+            count[key]++;
+            count[val]++;
 
-            if(edgeMap.containsKey(key)){
-                edgeMap.get(key).add(val);
-            }else {
-                Set<Integer> s1 = new HashSet<>();
-                s1.add(val);
-                edgeMap.put(key, s1);
-            }
+            Set<Integer> s1 = edgeMap.getOrDefault(key, new HashSet<>());
+            s1.add(val);
+            edgeMap.put(key, s1);
 
-            if(edgeMap.containsKey(val)){
-                edgeMap.get(val).add(key);
-            }else {
-                Set<Integer> s1 = new HashSet<>();
-                s1.add(key);
-                edgeMap.put(val, s1);
-            }
+            Set<Integer> s = edgeMap.getOrDefault(val, new HashSet<>());
+            s.add(key);
+            edgeMap.put(val, s);
         }
 
-        while (edgeMap.size() > 2){
+        List<Integer> keySet = new ArrayList<>();
 
-            Map<Integer, Integer> keySet = edgeMap.entrySet().stream().filter(entry -> entry.getValue().size() == 1)
-                    .collect(Collectors.toMap(Map.Entry::getKey, a -> a.getValue().iterator().next()));
+        for (int i = 0; i < n; i++) {
+            if(count[i] == 1){
+                keySet.add(i);
+            }
+        }
+//        List<Integer> keySet = edgeMap.entrySet().stream().filter(entry -> entry.getValue().size() == 1)
+//                .map(Map.Entry::getKey)
+//                .collect(Collectors.toList());
 
-            for (int key : keySet.keySet()){
+
+        while (n > 2) {
+
+            List<Integer> newLeaves = new ArrayList<>();
+
+            for (int key : keySet) {
+
+                int val = edgeMap.get(key).iterator().next();
                 edgeMap.remove(key);
-                edgeMap.get(keySet.get(key)).remove(key);
+                edgeMap.get(val).remove(key);
+                n--;
+
+                if(edgeMap.get(val).size() == 1){
+                 newLeaves.add(val);
+                }
             }
+
+            keySet = newLeaves;
         }
 
-        return new ArrayList<>(edgeMap.keySet());
+        return keySet;
+    }
+
+    public static void main(String[] args){
+        System.out.println(findMinHeightTrees1(4, new int[][]{{0, 1}, {1,2},{1,3}}));
     }
 }

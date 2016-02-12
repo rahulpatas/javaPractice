@@ -21,12 +21,7 @@ public class FindSubString {
         Map<String, Integer> currCount = new HashMap<>();
 
         for (String word: words) {
-
-            if(wordCount.containsKey(word)){
-                wordCount.replace(word, wordCount.get(word) + 1);
-            }else {
-                wordCount.put(word, 1);
-            }
+            wordCount.put(word, wordCount.getOrDefault(word, 0) + 1);
         }
 
         int start, x, wordsLen = nWords * wordLen;
@@ -86,7 +81,7 @@ public class FindSubString {
     }
 
     public static int found(List<Integer> indices, int start, int wordsLen, int j, int wordLen,
-                                 Map<String, Integer> currCount, String s) {
+                            Map<String, Integer> currCount, String s) {
         if (start + wordsLen == j + wordLen) {
             indices.add(start);
             decreaseCount(currCount, s.substring(start, start + wordLen));

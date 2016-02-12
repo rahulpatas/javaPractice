@@ -1,7 +1,0 @@
-package Greeter
-
-object Hello {
-
-  def main(args: Array[String]): Unit = {}
-
-}

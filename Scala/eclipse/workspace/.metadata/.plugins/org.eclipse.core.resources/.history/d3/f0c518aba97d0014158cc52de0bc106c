@@ -1,0 +1,17 @@
+package Week2
+
+object Sum {
+                                                  //> Welcome to the Scala worksheet
+ def sum(f: Int=> Int):(Int, Int)=> Int= {
+ def sumF(a: Int, b:Int):Int = 
+ if (a>b)0
+ else f(a)+ sumF(a+1, b)
+ sumF
+ }
+ 
+ sum (cube) (1,10)
+ def cube (x:Int) :Int = x*x*x
+ def sumInts = sum(x=>x)
+ def sumCubes =sum (x => x*x*x)
+ 
+}

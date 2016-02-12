@@ -1,0 +1,5 @@
+package Week2
+
+object Sum {
+  println("Welcome to the Scala worksheet")
+}

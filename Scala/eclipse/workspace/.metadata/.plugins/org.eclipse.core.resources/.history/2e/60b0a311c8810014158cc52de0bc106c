@@ -1,0 +1,13 @@
+package week4
+
+trait ExprDe {
+def eval : Int
+}
+
+class Number (n: Int) extends ExprDe {
+  def eval: Int =n
+}
+
+class Sum (e1 : ExprDe, e2 : ExprDe) extends ExprDe {
+  def eval : int = e1.eval + e2.eval
+}

@@ -1,0 +1,8 @@
+package Week01
+
+object Session {
+  println("Welcome to the Scala worksheet")       //> Welcome to the Scala worksheet
+1+3                                               //> res0: Int(4) = 4
+def abs(x: Double) = if(x>0) x else -x            //> abs: (x: Double)Double
+abs(-2)                                           //> res1: Double = 2.0
+}

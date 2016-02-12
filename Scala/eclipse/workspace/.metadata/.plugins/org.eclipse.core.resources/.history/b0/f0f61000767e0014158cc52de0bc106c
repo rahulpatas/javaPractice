@@ -1,0 +1,5 @@
+package week3
+
+object RationWithSymboles {
+  println("Welcome to the Scala worksheet")       //> Welcome to the Scala worksheet
+}

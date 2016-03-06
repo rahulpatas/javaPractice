@@ -2,9 +2,9 @@ package GeekCoder;
 
 public class LongestInSeq {
 
-    public static int lis(int[] arr){
+    public static int lis(int[] arr) {
 
-        int maxCount =1;
+        int maxCount = 1;
         int current = arr[0];
 
         for (int i = 1; i < arr.length; i++) {
@@ -12,20 +12,20 @@ public class LongestInSeq {
             int count = 1;
             int j = i;
 
-            if(maxCount >= arr.length -i){
+            if (maxCount >= arr.length - i) {
                 break;
             }
 
-            while (j < arr.length ){
+            while (j < arr.length) {
 
-                if(current < arr[j]){
+                if (current < arr[j]) {
                     current = arr[j];
                     count++;
                 }
                 j++;
             }
 
-            if(count>maxCount){
+            if (count > maxCount) {
                 maxCount = count;
             }
         }
@@ -33,8 +33,8 @@ public class LongestInSeq {
         return maxCount;
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
-        System.out.println(lis(new int[]{ 10, 22, 9, 33, 21, 50, 41, 60, 80 }));
+        System.out.println(lis(new int[]{10, 22, 9, 33, 21, 50, 41, 60, 80}));
     }
 }

@@ -8,28 +8,27 @@ import static org.junit.Assert.assertEquals;
 
 public class balancedPara {
 
-    private static final Map<Character, Character> brackets = new HashMap<Character, Character>();
 
-    static {
-        brackets.put('{', '}');
-        brackets.put('(', ')');
-        brackets.put('[', ']');
-    }
+    public static boolean isBalanced(String s) {
 
-    public static boolean isBalanced(String a){
-
-        Stack<Character> stack = new Stack<>();
         int i = 0;
 
-        if(a !=null) {
-            if ( a.length() == 0) {
-                System.out.println("string does not have any character");
+        if (s != null) {
+            if (s.length() == 0) {
                 return false;
-            } else if (a.length() % 2 != 0) {
+            } else if (s.length() % 2 != 0) {
                 return false;
             } else {
 
-                for (Character character : a.toCharArray()) {
+                Map<Character, Character> brackets = new HashMap<>();
+
+                brackets.put('{', '}');
+                brackets.put('(', ')');
+                brackets.put('[', ']');
+
+                Stack<Character> stack = new Stack<>();
+
+                for (Character character : s.toCharArray()) {
                     if (brackets.containsKey(character)) {
                         stack.push(character);
                         i++;
@@ -37,7 +36,7 @@ public class balancedPara {
                         return false;
                     }
                 }
-                if(i == a.length()){
+                if (i == s.length()) {
                     return false;
                 }
             }
@@ -46,12 +45,12 @@ public class balancedPara {
         return true;
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         isBalanced(null);
         assertEquals(false, isBalanced("[["));
         assertEquals(true, isBalanced("{}([])"));
-        assertEquals(false,isBalanced("([}])"));
+        assertEquals(false, isBalanced("([}])"));
         assertEquals(true, isBalanced("([])"));
         assertEquals(true, isBalanced("()[]{}[][]"));
     }

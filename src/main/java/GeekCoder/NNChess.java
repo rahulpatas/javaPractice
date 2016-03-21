@@ -11,18 +11,20 @@ public class NNChess {
     public static void getNNChess(int N, int x, int y) {
 
         int[][] chess = new int[N][N];
-        int curIndex = 2;
-        chess[x][y] = 1;
+        int curIndex = 1;
 
         findPath(chess, N, x, y, curIndex);
     }
 
-    private static boolean findPath(int[][] chess, int N, int x, int y, int curIndex) {
+    private static void findPath(int[][] chess, int N, int x, int y, int curIndex) {
 
-        if (curIndex == N * N + 1) {
-            printChess(chess, N);
+        chess[x][y] = curIndex;
+
+        if (curIndex == N * N) {
             completedChessList.add(new AbstractMap.SimpleEntry<>(chess, checkClosedLoop(chess, N, x, y)));
-            return true;
+            System.out.println(completedChessList.size());
+            printChess(chess, N);
+            return;
         }
 
         for (int i = 0; i < xMove.length; i++) {
@@ -31,19 +33,10 @@ public class NNChess {
             int yNext = y + yMove[i];
 
             if (xNext < N && xNext >= 0 && yNext >= 0 && yNext < N && chess[xNext][yNext] == 0) {
-
-//                System.out.println(Runtime.getRuntime().availableProcessors());
-                chess[xNext][yNext] = curIndex;
-
-                if (findPath(chess, N, xNext, yNext, curIndex + 1)) {
-                    return true;
-                } else {
-                    chess[xNext][yNext] = 0;
-                }
+                findPath(chess, N, xNext, yNext, curIndex + 1);
+                chess[xNext][yNext] = 0;
             }
         }
-
-        return false;
     }
 
     private static boolean checkClosedLoop(int[][] chess, int N, int x, int y) {
@@ -53,7 +46,7 @@ public class NNChess {
             int xNext = x + xMove[i];
             int yNext = y + yMove[i];
 
-            if(xNext < N && xNext >= 0 && yNext >= 0 && yNext < N && chess[xNext][yNext] == 1){
+            if (xNext < N && xNext >= 0 && yNext >= 0 && yNext < N && chess[xNext][yNext] == 1) {
                 return true;
             }
         }
@@ -71,10 +64,10 @@ public class NNChess {
 
             System.out.println();
         }
+        System.out.println();
     }
 
     public static void main(String[] args) {
         getNNChess(8, 0, 0);
     }
-
 }

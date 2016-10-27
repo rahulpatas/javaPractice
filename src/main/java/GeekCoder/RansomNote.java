@@ -10,12 +10,7 @@ public class RansomNote {
         Map<Character, Integer> noteMap = new HashMap<>();
 
         for(Character c : note.toCharArray()){
-            if(noteMap.containsKey(c)){
-                noteMap.replace(c, noteMap.get(c) + 1);
-            }else {
-                noteMap.put(c, 1);
-            }
-
+            noteMap.put(c, noteMap.getOrDefault(c, 0) + 1);
         }
 
         for (Character c : article.toCharArray()){
